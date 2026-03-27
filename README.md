@@ -75,21 +75,22 @@ MEASUREMENT OF BENDING LOSSES:
 	Keep reducing the diameter of bend to about 2 cm & take corresponding out voltage readings. (Do not reduce loop diameter less than 1 cm).
 	Plot a graph of the received signal amplitude versus the loop diameter.
 
- 
+**Block Diagram:**  
+
+ <img width="918" height="486" alt="image" src="https://github.com/user-attachments/assets/0870ed31-003f-44f9-b68d-6dc76efea2dc" />
+
 
 **Tabulation:**
 
 ### Propagation Loss
 
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|              |                     |                        |
+<img width="795" height="1280" alt="image" src="https://github.com/user-attachments/assets/168ffa08-093d-4a31-b116-7431b7cd8d06" />
+
 
 ### Bending Loss
 
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|                  |                     |                        |
+<img width="817" height="1280" alt="image" src="https://github.com/user-attachments/assets/66e2e56e-dae9-4311-b6ff-213af60e8ac1" />
+
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
